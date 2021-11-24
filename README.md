@@ -20,6 +20,6 @@
 |6|2021.10.28 ~ 2021.11.3|[프린터](https://programmers.co.kr/learn/courses/30/lessons/42587/solution_groups?language=python3&type=my)| [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)|[배달](https://programmers.co.kr/learn/courses/30/lessons/12978)|[괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058), [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)|[예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985)|
 |7|2021.11.3 ~ 2021.11.10|[조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)|[기능 개발](https://programmers.co.kr/learn/courses/30/lessons/42586)| [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502)|[[3차] n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687)|[수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)|
 |8|2021.11.11 ~ 2021.11.17|[그리디 알고리즘](https://www.acmicpc.net/step/33)|1,2,3|3|1, 2, 3, 4, 5|3|
-|9|2021.11.18 ~ 2021.11.24|[큐, 덱](https://www.acmicpc.net/step/12)|3|3|3|3|
+|9|2021.11.18 ~ 2021.11.24|[큐, 덱](https://www.acmicpc.net/step/12)|3|3|1, 2, 3, 4, 5, 6, 7|3|
 
 
